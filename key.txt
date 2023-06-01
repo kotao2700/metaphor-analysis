@@ -1,8 +1,0 @@
-Computational Historical Linguistics and Language Diversity in South Asia
-東南アジアの言語とNLP
-
-Slangvolution: A Causal Analysis of Semantic Change and Frequency Dynamics in Slang
-スラングをモデル化
-
-Metaphors in Pre-Trained Language Models: Probing and Generalization Across Datasets and Languages
-あとでよむ
